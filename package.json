@@ -1,0 +1,20 @@
+{
+	"name": "mern-app",
+	"version": "1.0.0",
+	"description": "## Technologies used 1. NodeJs 2. ReactJS 3. and many more...",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"client": "cd client && npm start"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/shinderahul/mern-app.git"
+	},
+	"author": "Rahul Shinde",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/shinderahul/mern-app/issues"
+	},
+	"homepage": "https://github.com/shinderahul/mern-app#readme"
+}
